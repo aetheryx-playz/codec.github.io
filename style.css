@@ -1,0 +1,44 @@
+:root {
+  --background-primary: #eeeeee;
+  --text-primary: #222222;
+}
+
+h1{
+  padding:10px;
+  color:#000000;
+  font-family:helvetica;
+}
+
+h2 {
+  background-color: #4d98ff;
+   color:#000000;
+   margin: 20px;
+   font-family:helvetica;
+   }
+
+body {
+   background-color: #ffff;
+   }
+
+b{
+  padding:10px;
+  color:#696969;
+  font-family: helvetica;
+  }
+
+a{
+  color: #000000;
+  font-family: helvetica;
+}
+
+  button{
+  color:#4d98ff;
+  font-family: helvetica;
+  background-color: #4d98ff;
+}
+
+  p{
+  padding:5px;
+  color:#696969;
+  font-family:helvetica;
+  }
